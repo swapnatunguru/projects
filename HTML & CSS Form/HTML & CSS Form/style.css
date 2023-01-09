@@ -1,0 +1,22 @@
+p{
+    color : whitesmoke;
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(image.png);
+    background-size: 80%;
+    background-position: 400px 0px;
+    width: 400px ;
+margin: 100px auto 0px auto;
+}
+
+h1{ color: aliceblue;
+    font
+    text-align: center;
+    padding: 20px;
+    font-family: sans-serif;
+}
